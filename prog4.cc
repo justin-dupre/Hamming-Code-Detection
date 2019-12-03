@@ -1,6 +1,6 @@
 /**
  * Justin Dupre
- * CSCI 463 ASsignment 4 Extra Credit
+ * CSCI 463 Assignment 4 Extra Credit
  * Hamming Code Detection and Correction
  * Due 12/4/19
  */
